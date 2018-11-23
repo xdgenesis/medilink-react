@@ -41,10 +41,10 @@ export class BenefitDatatable extends Component {
                 zeroRecords:    "No Matching Records Found!",
                 search:         "",
                 paginate: {
-                  first: "<i class='angle single left icon'></i> First",
-                  previous: "<i class='angle double left icon'></i> Previous",
-                  next: "Next <i class='angle double right icon'></i>",
-                  last: "Last <i class='angle single right icon'></i>"
+                  first: "<i class='angle double left icon'></i> First",
+                  previous: "<i class='angle single left icon'></i> Previous",
+                  next: "Next <i class='angle single right icon'></i>",
+                  last: "Last <i class='angle double right icon'></i>"
                 }
               },
               "drawCallback": function () {
