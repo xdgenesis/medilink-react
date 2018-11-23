@@ -104,7 +104,7 @@ class Content extends Component{
               <div className="field dim">
                 LAST UPDATE
               </div>
-              <div className="valid_timezone field">June 01, 2018</div>
+              <div className="valid_timezone field">November 23, 2018</div>
             </div>
 
             <div className="two fields">
@@ -115,38 +115,22 @@ class Content extends Component{
                 masteradmin
               </div>
             </div>
+
             <div className="two fields">
               <div className="field dim">
                 COVERAGE
               </div>
               <div className="field">
-                ACU
+                Dental
               </div>
             </div>
 
             <div className="two fields">
               <div className="field dim">
-                ACU TYPE
+                CATEGORY
               </div>
               <div className="field">
-                Regular
-              </div>
-            </div>
-
-            <div className="two fields">
-              <div className="field dim">
-                AVAILMENT CHANNEL
-              </div>
-              <div className="field">
-                Hospital/Clinic and Mobile
-              </div>
-            </div>
-            <div className="two fields">
-              <div className="field dim">
-                TYPE
-              </div>
-              <div className="field">
-                Availment
+                Riders
               </div>
             </div>
 
@@ -155,7 +139,7 @@ class Content extends Component{
                 LIMIT TYPE
               </div>
               <div className="field">
-                Sessions
+                Peso
               </div>
             </div>
 
@@ -164,7 +148,16 @@ class Content extends Component{
                 LIMIT
               </div>
               <div className="field">
-                1
+                100, 000
+              </div>
+            </div>
+
+            <div className="two fields">
+              <div className="field dim">
+                FREQUENCY
+              </div>
+              <div className="field">
+                N/A
               </div>
             </div>
           </div>
